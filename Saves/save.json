@@ -1,0 +1,36 @@
+{
+  "game": [
+    {
+      "player": {
+        "health": 2,
+        "attack": 1,
+        "velocity": 5,
+        "score": 0,
+        "skin": 1,
+        "OwnedSkin": [
+          1,
+          5
+        ]
+      },
+      "enemy": {
+        "health": 1,
+        "attack": 1,
+        "velocity": 2,
+        "frequence_tir": 10
+      },
+      "ammo": {
+        "velocity": 10
+      },
+      "ammo_enemy": {
+        "velocity": 10
+      },
+      "upgrade": {
+        "vie": 1,
+        "vitesse": 1,
+        "degats": 1,
+        "bonus": 1,
+        "bonus_level_left": 0
+      }
+    }
+  ]
+}
